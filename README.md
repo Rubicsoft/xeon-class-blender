@@ -25,6 +25,6 @@ So **Xeon** stands for **X Three Community Nation**. So I was learning in the cl
 
 Follow my [Instagram][ig_link] (@reymo_je_xefron)
 
-[xeon_class]: Render\xeon_class_gfx1.png
+[xeon_class]: Render/xeon_class_gfx1.png
 [reference_img]: Render/reference.jpg
 [ig_link]: https://www.instagram.com/reymo_je_xefron/
