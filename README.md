@@ -18,9 +18,23 @@ Hello guys, I'm Reymo Je. So this is my personal project. This project has been 
 
 So **Xeon** stands for **X Three Community Nation**. So I was learning in the class X3 on that time
 
-## Reference
+## Download Project
+
+**NOTE** : This project is using **Blender 4.0.2**
+
+[xeon_class_by_reymoje.blend][download_project]
+
+### Editor Screenshot
+
+![editor screenshot][screenshot_img]
+
+*Project using Blender 4.0.2*
+
+### Reference
 
 ![reference][reference_img]
+
+*Miss that time*
 
 
 Follow my [Instagram][ig_link] (@reymo_je_xefron)
@@ -28,3 +42,5 @@ Follow my [Instagram][ig_link] (@reymo_je_xefron)
 [xeon_class]: Render/xeon_class_gfx1.png
 [reference_img]: Render/reference.jpg
 [ig_link]: https://www.instagram.com/reymo_je_xefron/
+[download_project]: https://github.com/Rubicsoft/xeon-class-blender/releases/tag/wtf_is_tag
+[screenshot_img]: Render/screenshot.png
